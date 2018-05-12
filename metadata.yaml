@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3004
     wikipedia: http://en.wikipedia.org/wiki/May_Sinclair
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31416#The-Immortal-Moment--The-Story-of-Kitty-Tailleur
 gutenberg_issued: '2010-02-27'
 gutenberg_type: Text
 identifiers:
